@@ -1,6 +1,6 @@
 # Burc Rehberi Uygulaması
 
-## Ekran Gürüntüleri
+## Ekran Görüntüleri
 
 <p float ="left">
 <img src="images/ss/1.png" width="250" >
