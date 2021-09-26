@@ -1,4 +1,4 @@
-# Burc Rehberi Uygulaması
+# Dinamik Not Ortalaması
 
 ## Ekran Görüntüleri
 
