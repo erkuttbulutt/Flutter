@@ -1,4 +1,4 @@
-# Burc Rehberi Uygulaması
+# Moda Uygulaması Tasarımı
 
 ## Ekran Görüntüleri
 
