@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77444175285",
+    "project_id": "chat-app-tez-1",
+    "storage_bucket": "chat-app-tez-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77444175285:android:dca5fefc8ef319547975fc",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_tez_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77444175285-8jv5q2chiem7k4kvlo8fi3osn6otruor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app_tez_1",
+            "certificate_hash": "d19fcdcc3faeea14093ac9529eb78f175a054d9b"
+          }
+        },
+        {
+          "client_id": "77444175285-hi2tbgvgmm46id1e02h38cu85pr6rii3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYTmBRQTBieoMyChvMMd0Voc4WtO5Cdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77444175285-hi2tbgvgmm46id1e02h38cu85pr6rii3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
